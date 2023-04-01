@@ -1,3 +1,7 @@
+''' Glyphs can be any images with a URL.
+
+    :apis: bokeh.models.glyphs.ImageURL
+'''
 import numpy as np
 
 from bokeh.core.properties import value
